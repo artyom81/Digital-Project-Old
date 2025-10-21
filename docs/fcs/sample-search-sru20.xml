@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:echoedSearchRetrieveRequest>
+    <sru:version>1.2</sru:version>
+    <sru:query>ковокс</sru:query>
+    <sru:startRecord>1</sru:startRecord>
+    <sru:maximumRecords>5</sru:maximumRecords>
+  </sru:echoedSearchRetrieveRequest>
+  <sru:nextRecordPosition>6</sru:nextRecordPosition>
+  <sru:numberOfRecords>31</sru:numberOfRecords>
+  <sru:records>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Shupashkar 02 - Железо - CОVОХ 251. Что это такое и с чем его едят.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=17236</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Shupashkar</fcs:extent>
+              <fcs:extent type="issue">02</fcs:extent>
+              <fcs:extent type="date">1999-10-09</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>ЖЕЛЕЗО. ░░░░░░░░░░░░░░░░░ __________________________________________ (C) DJ.CHEMIST.</hits:leftContext>
+              <hits:match>Ковокс.</hits:match>
+              <hits:rightContext>Что это такое и с</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>и с чем его едят.</hits:leftContext>
+              <hits:match>Ковокс</hits:match>
+              <hits:rightContext>это много резисторов ... или</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>1</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>On-Line 29 - Железо - АЦП в режиме биполярного преобразования. Звуковой интерфейс "Sound Driver - 1".</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=2056</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">On-Line</fcs:extent>
+              <fcs:extent type="issue">29</fcs:extent>
+              <fcs:extent type="date">1996-03-24</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>запоминается как положительная синусоида (классический</hits:leftContext>
+              <hits:match>ковокс),</hits:match>
+              <hits:rightContext>так и как отрицательная синусоида.</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>как все простые схемы ЦАПов</hits:leftContext>
+              <hits:match>(ковоксов)</hits:match>
+              <hits:rightContext>работают лишь в униполярном режиме...</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>из Новосибирска, проигрывающие музоны через</hits:leftContext>
+              <hits:match>ковокс,</hits:match>
+              <hits:rightContext>драйв и бэби, у меня</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>2</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Format 08 - Программистам - Digital sound на Спектруме: О тoм, как заставить SPECCY вoспрoизвoдить oцифрoванныe звуки.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=15214</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Format</fcs:extent>
+              <fcs:extent type="issue">08</fcs:extent>
+              <fcs:extent type="date">1997-12-31</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>посвящена тем, у кого есть</hits:leftContext>
+              <hits:match>ковокс,</hits:match>
+              <hits:rightContext>sound- drive или, на худой</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>а 8-ми битным ЦАПом является</hits:leftContext>
+              <hits:match>ковокс).</hits:match>
+              <hits:rightContext>8 и 4 бита -</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>Таким образом, кидая в порт</hits:leftContext>
+              <hits:match>ковокса</hits:match>
+              <hits:rightContext>значения из тела сэмпла (звука),</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>3</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>On-Line 28 - Железо - Запись-воспроизведение цифрового звука - цифро-аналоговый преобразователь (Covox). 2 классических схемы ковокса.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=2050</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">On-Line</fcs:extent>
+              <fcs:extent type="issue">28</fcs:extent>
+              <fcs:extent type="date">1996-03-17</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>преобразователь (Covox). 2 классических схемы</hits:leftContext>
+              <hits:match>ковокса.</hits:match>
+              <hits:rightContext>╔══════════════════════════════════════════════════════════════╗ │ ЖЕЛЕЗО │ ╚══════════════════════════════════════════════════════════════╝</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>преобразователь) или, в просто- народии,</hits:leftContext>
+              <hits:match>КОВОКС.</hits:match>
+              <hits:rightContext>Далее, на основе предлагаемых одноканальных</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>Вашему вниманию две классические схемы</hits:leftContext>
+              <hits:match>ковокса</hits:match>
+              <hits:rightContext>на основе микросхемы ЦАП КР572ПА1А(Б).</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>4</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Next 10 - Добрый вечер - хочу сообщить, что MECONG BBS сегодня будет работать до утра.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=15465</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Next</fcs:extent>
+              <fcs:extent type="issue">10</fcs:extent>
+              <fcs:extent type="date">1997-09-16</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>DESERT/PHD доделал свой муз.редактор под</hits:leftContext>
+              <hits:match>ковокс</hits:match>
+              <hits:rightContext>и соунд драйв (AST) В</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>5</sru:recordPosition>
+    </sru:record>
+  </sru:records>
+</sru:searchRetrieveResponse>

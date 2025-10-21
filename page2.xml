@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:echoedSearchRetrieveRequest>
+    <sru:version>1.2</sru:version>
+    <sru:query>ковокс</sru:query>
+    <sru:startRecord>6</sru:startRecord>
+    <sru:maximumRecords>5</sru:maximumRecords>
+  </sru:echoedSearchRetrieveRequest>
+  <sru:nextRecordPosition>11</sru:nextRecordPosition>
+  <sru:numberOfRecords>31</sru:numberOfRecords>
+  <sru:records>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>On-Line 44 - Презентация - критика ZX-Format, Conver Commander v4.5 pro, MS-Pack 01.96, XAS-128, Sample Tracker v2.1.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=2128</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">On-Line</fcs:extent>
+              <fcs:extent type="issue">44</fcs:extent>
+              <fcs:extent type="date">1996-07-07</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>бипер, AY и трехканальный четырехбитный</hits:leftContext>
+              <hits:match>ковокс</hits:match>
+              <hits:rightContext>(впрочем, может ковокс был и</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>трехканальный четырехбитный ковокс (впрочем, может</hits:leftContext>
+              <hits:match>ковокс</hits:match>
+              <hits:rightContext>был и 8-ми битен, но</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>бипер, AY и три восьмибитных</hits:leftContext>
+              <hits:match>ковокса</hits:match>
+              <hits:rightContext>- одноканальный LPT, двухканальный PROFI</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>6</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Faultless 06 - Новости - MORTAL KOMBAT 128K BY AWS/MAFIA уже закончен!</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11298</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Faultless</fcs:extent>
+              <fcs:extent type="issue">06</fcs:extent>
+              <fcs:extent type="date">1996-12-31</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>музыка оцифрованная или простая (на</hits:leftContext>
+              <hits:match>ковокс</hits:match>
+              <hits:rightContext>или на AY). Можно также</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>и слыша- ть удары под</hits:leftContext>
+              <hits:match>Ковокс</hits:match>
+              <hits:rightContext>оцифрованные, конечно. Графика в игре</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>7</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Dni-Pro 01 - Звук - схема и описание Covox для Спектрума.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=9149</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Dni-Pro</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">2000-11-18</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>Порт #FB является стандартным для</hits:leftContext>
+              <hits:match>ковокса.</hits:match>
+              <hits:rightContext>Так вот, преимущества этого COVOX&#x27;а</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>в 16 битной приставке ┌──┬───┬──┐</hits:leftContext>
+              <hits:match>Ковокс/DAC</hits:match>
+              <hits:rightContext>2 ─┤D0│ Y │A0├─ 17</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>8</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Plutonium 09 - Железо - Цифровой звук на Sрeccy. Cоxоx 8b.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=15921</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Plutonium</fcs:extent>
+              <fcs:extent type="issue">09</fcs:extent>
+              <fcs:extent type="date">1998-10-09</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>THE ТОР. Итак, вот схема</hits:leftContext>
+              <hits:match>ковокса</hits:match>
+              <hits:rightContext>8В: R1 C D7 *--###----+--+----*</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>C1 - 68OO пФ Для</hits:leftContext>
+              <hits:match>ковокса</hits:match>
+              <hits:rightContext>есть следуюший софт (из то-</hits:rightContext>
+            </hits:kwic>
+            <hits:kwic>
+              <hits:leftContext>PlayMod - плеер .MOD-файлов под</hits:leftContext>
+              <hits:match>ковокс.</hits:match>
+              <hits:rightContext>Covox - схема и тест</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>9</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>Aspect 02 - BBS-Лист - Список BBS города.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=2562</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">Aspect</fcs:extent>
+              <fcs:extent type="issue">02</fcs:extent>
+              <fcs:extent type="date">1997-12-28</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+            <hits:kwic>
+              <hits:leftContext>│ 812/04.00 │Moiseev │ │</hits:leftContext>
+              <hits:match>│ковокс.</hits:match>
+              <hits:rightContext>│23:30- │ │ │ │</hits:rightContext>
+            </hits:kwic>
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>10</sru:recordPosition>
+    </sru:record>
+  </sru:records>
+</sru:searchRetrieveResponse>

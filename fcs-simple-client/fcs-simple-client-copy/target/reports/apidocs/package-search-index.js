@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"eu.clarin.sru.client.auth"},{"l":"eu.clarin.sru.client.fcs"},{"l":"eu.clarin.sru.client.fcs.utils"}];updateSearchResults();

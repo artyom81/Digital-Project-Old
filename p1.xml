@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:echoedSearchRetrieveRequest>
+    <sru:version>1.2</sru:version>
+    <sru:query>ковокс</sru:query>
+    <sru:startRecord>1</sru:startRecord>
+    <sru:maximumRecords>5</sru:maximumRecords>
+  </sru:echoedSearchRetrieveRequest>
+  <sru:nextRecordPosition>6</sru:nextRecordPosition>
+  <sru:numberOfRecords>17148</sru:numberOfRecords>
+  <sru:records>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Железо - схема LPT Covox&#x27;a.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11913</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>1</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Gametrack - обзор игрушек: Galaxians, &quot;Драки&quot; на ZX, Между нами,мальчиками, Проблемы игрового програмирования.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11914</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>2</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Введение - Не секрет, что мы далеко не первые из тех, кто решил посвятить свои силы компьютерной журналистике.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11911</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>3</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - IBM - 9600 бод и все-все-все...</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11917</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>4</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - На связи - открытое письмо Stever&#x27;a о судьбе газеты Online.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11916</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>5</sru:recordPosition>
+    </sru:record>
+  </sru:records>
+</sru:searchRetrieveResponse>

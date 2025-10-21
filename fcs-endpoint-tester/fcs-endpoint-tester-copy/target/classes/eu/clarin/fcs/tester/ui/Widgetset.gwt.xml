@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <inherits name="com.vaadin.DefaultWidgetSet"/>
+
+    <inherits name="org.vaadin.hene.popupbutton.widgetset.PopupbuttonWidgetset" />
+
+    <inherits name="org.vaadin.jouni.animator.AnimatorWidgetset" />
+</module>

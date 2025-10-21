@@ -1,0 +1,113 @@
+@import "../reindeer/legacy-styles.css";
+
+.header {
+	color: inherit;
+	padding: 0 0 4px 0;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.header h1 {
+	margin: 0;
+	padding: 0 76px 0 0;
+	height: 42px;
+	line-height: 42px;
+	vertical-align: middle;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);;
+	background-color: transparent;
+	background-image: url("icons/clarin-d-logo.png");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+.footer div {
+    text-align: center;	
+}
+
+.small-margin {
+	padding: 4px !important;
+}
+
+.main-content {
+	color: inherit;
+	background-color: #ffffff;
+	border: 1px solid rgba(0, 0, 0, 0.08) !important;
+}
+
+.no-results-label {
+	opacity: 0.15;
+}
+
+.result-overall-headline h2 {
+	margin: 0 0 2px 0;
+}
+
+.v-caption-result-overall-label {
+	display: inline !important;
+}
+
+.v-caption-result-overall-label img {
+	margin-top: -4px;
+}
+
+.result-overall-label {
+	font-size: 16px;
+	display: inline !important;
+}
+
+.v-slot-result-overall-label {
+	margin-bottom: 2px;
+}
+
+.result-individual-headline h2 {
+	margin: 4px 0 2px 0;
+}
+
+.result-panel .v-panel-caption img {
+	padding-right: 16px;
+	margin-top: -1px;
+}
+
+.result-panel .v-panel-caption {
+	background: transparent url("../base/common/img/sprites.png") no-repeat
+		22px -37px;
+}
+
+.result-panel-opened .v-panel-caption {
+	background-position: 11px -9px;
+}
+
+.result-panel .v-panel-content {
+	border: none;
+}
+
+.result-panel .v-panel-caption {
+	padding-bottom: 2px;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+}
+
+.result-panel .v-panel-deco,
+.result-panel .animator {
+	display: none;
+}
+
+.result-panel-content {
+	padding: 2px;
+	margin-bottom: 4px;
+	border-left: 1px solid rgba(0, 0, 0, 0.08) !important;
+	border-right: 1px solid rgba(0, 0, 0, 0.08) !important;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
+}
+
+.result-panel .result-label {
+	padding: 1px 0 1px 0;
+	font-size: 14px;
+	line-height: 14px;
+	vertical-align: bottom;
+}
+
+.result-panel .v-caption-result-panel-content-messages {
+	margin-top: 4px;
+}

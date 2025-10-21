@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sru:explainResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:records>
+    <sru:record>
+      <sru:recordSchema>http://explain.z3950.org/dtd/2.0/</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Capabilities>
+          <fcs:Title>DigitProject SRU/FCS endpoint</fcs:Title>
+          <fcs:Version>1.2</fcs:Version>
+        </fcs:Capabilities>
+      </sru:recordData>
+      <sru:recordPosition>1</sru:recordPosition>
+    </sru:record>
+  </sru:records>
+</sru:explainResponse>

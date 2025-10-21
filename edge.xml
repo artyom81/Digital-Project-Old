@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:echoedSearchRetrieveRequest>
+    <sru:version>1.2</sru:version>
+    <sru:query>ковокс</sru:query>
+    <sru:startRecord>999999</sru:startRecord>
+    <sru:maximumRecords>5</sru:maximumRecords>
+  </sru:echoedSearchRetrieveRequest>
+  <sru:numberOfRecords>31</sru:numberOfRecords>
+  <sru:records>
+  </sru:records>
+</sru:searchRetrieveResponse>

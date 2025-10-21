@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/" xmlns:fcs="http://clarin.eu/fcs/1.0" xmlns:hits="http://clarin.eu/fcs/dataview/1.0">
+  <sru:version>1.2</sru:version>
+  <sru:echoedSearchRetrieveRequest>
+    <sru:version>1.2</sru:version>
+    <sru:query>ковокс</sru:query>
+    <sru:startRecord>6</sru:startRecord>
+    <sru:maximumRecords>5</sru:maximumRecords>
+  </sru:echoedSearchRetrieveRequest>
+  <sru:nextRecordPosition>11</sru:nextRecordPosition>
+  <sru:numberOfRecords>17148</sru:numberOfRecords>
+  <sru:records>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Училка - уроки программрования: копирование блоков памяти, циклы.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11915</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>6</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Вести - на рынок был выпущен новый редактор для музыки на отцифрованных инструментах - &quot;DIGITAL STUDIO&quot;, TECHNOTIME SOFTWARE распались, Magic soft готовит Prince of Persia.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11912</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>7</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 01 - Коробочка - мы предстваляем вашему вниманию следующие программы : Double Gifx, Lpt Covox, Cyber Zone, Mega Phoenix.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=11918</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">01</fcs:extent>
+              <fcs:extent type="date">1995-10-08</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>8</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 07 - Приёмы кодинга - Тыр-дос.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=15177</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">07</fcs:extent>
+              <fcs:extent type="date">1995-10-01</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>9</sru:recordPosition>
+    </sru:record>
+    <sru:record>
+      <sru:recordSchema>http://clarin.eu/fcs/1.0</sru:recordSchema>
+      <sru:recordPacking>XML</sru:recordPacking>
+      <sru:recordData>
+        <fcs:Resource>
+          <fcs:ResourceHeader>
+            <fcs:title>ZX Magazine 07 - Пробы кнопочки - 35 способов применения CD-ROM.</fcs:title>
+            <fcs:identifier>https://zxpress.ru/article.php?id=15179</fcs:identifier>
+            <fcs:extents>
+              <fcs:extent type="magazine">ZX Magazine</fcs:extent>
+              <fcs:extent type="issue">07</fcs:extent>
+              <fcs:extent type="date">1995-10-01</fcs:extent>
+            </fcs:extents>
+          </fcs:ResourceHeader>
+          <fcs:DataView type="hits:kwic-1.0">
+          </fcs:DataView>
+        </fcs:Resource>
+      </sru:recordData>
+      <sru:recordPosition>10</sru:recordPosition>
+    </sru:record>
+  </sru:records>
+</sru:searchRetrieveResponse>

@@ -1,0 +1,48 @@
+# This workflow will build a package using Maven
+
+name: Maven Package
+
+on:
+  push:
+    branches: [ $default-branch ]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up JDK 8
+      uses: actions/setup-java@v3
+      with:
+        java-version: '8'
+        distribution: 'temurin'
+        cache: maven
+
+    - name: 'Build dependency: fcs-sru-client@main'
+      run: |
+        git clone --depth 1 https://github.com/clarin-eric/fcs-sru-client.git
+        cd fcs-sru-client/
+        mvn -B install
+
+    - name: 'Build dependency: fcs-simple-client@main'
+      run: |
+        git clone --depth 1 https://github.com/clarin-eric/fcs-simple-client.git
+        cd fcs-simple-client/
+        mvn -B install
+
+    - name: Build with Maven
+      run: mvn -B clean package --file pom.xml
+
+    - name: Archive build artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: war
+        path: target/FCSEndpointTester-*.war
+        
+    # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
+    - name: Update dependency graph
+      uses: advanced-security/maven-dependency-submission-action@v3

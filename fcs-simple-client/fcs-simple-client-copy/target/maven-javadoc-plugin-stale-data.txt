@@ -1,0 +1,66 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/Users/stoia1/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/stoia1/.m2/repository/eu/clarin/sru/sru-client/2.5.0/sru-client-2.5.0.jar:/Users/stoia1/.m2/repository/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/Users/stoia1/.m2/repository/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/Users/stoia1/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/stoia1/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/stoia1/.m2/repository/org/codehaus/woodstox/woodstox-core-lgpl/4.4.1/woodstox-core-lgpl-4.4.1.jar:/Users/stoia1/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/Users/stoia1/.m2/repository/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar:/Users/stoia1/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.80/bcprov-jdk18on-1.80.jar:/Users/stoia1/.m2/repository/com/auth0/java-jwt/4.5.0/java-jwt-4.5.0.jar:/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.4/jackson-core-2.15.4.jar:/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.4/jackson-databind-2.15.4.jar:/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.4/jackson-annotations-2.15.4.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+8
+-sourcepath
+'/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/src/main/java:/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025 <a href="http://www.ids-mannheim.de/">Leibniz-Institut für Deutsche Sprache</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CLARIN-FCS client implementation 2.7.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CLARIN-FCS client implementation 2.7.0-SNAPSHOT API'
+eu.clarin.sru.client.fcs
+eu.clarin.sru.client.fcs.utils
+eu.clarin.sru.client.auth
+/Users/stoia1/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar = 1740501792000
+/Users/stoia1/.m2/repository/eu/clarin/sru/sru-client/2.5.0/sru-client-2.5.0.jar = 1750160470000
+/Users/stoia1/.m2/repository/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar = 1669833653000
+/Users/stoia1/.m2/repository/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar = 1669455900000
+/Users/stoia1/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar = 1404583945000
+/Users/stoia1/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar = 1508252044000
+/Users/stoia1/.m2/repository/org/codehaus/woodstox/woodstox-core-lgpl/4.4.1/woodstox-core-lgpl-4.4.1.jar = 1410486507000
+/Users/stoia1/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar = 1191225746000
+/Users/stoia1/.m2/repository/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar = 1393568426000
+/Users/stoia1/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.80/bcprov-jdk18on-1.80.jar = 1736884832000
+/Users/stoia1/.m2/repository/com/auth0/java-jwt/4.5.0/java-jwt-4.5.0.jar = 1738161551000
+/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.4/jackson-core-2.15.4.jar = 1708016988000
+/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.4/jackson-databind-2.15.4.jar = 1708018528000
+/Users/stoia1/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.4/jackson-annotations-2.15.4.jar = 1708016371000
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/src/main/java = 1760289117000
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/generated-sources/annotations = 1760289129000
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/constant-values.html = 1760289136805
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/tag-search-index.js = 1760289136870
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/overview-tree.html = 1760289136856
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/module-search-index.js = 1760289136869
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/index.html = 1760289136858
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/package-search-index.js = 1760289136869
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/serialized-form.html = 1760289136810
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/index-all.html = 1760289136884
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/allpackages-index.html = 1760289136868
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/deprecated-list.html = 1760289136857
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/member-search-index.js = 1760289136870
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/overview-summary.html = 1760289136886
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/help-doc.html = 1760289136890
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/element-list = 1760289136793
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/search.html = 1760289136885
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/allclasses-index.html = 1760289136868
+/Users/stoia1/Desktop/Website/DigitProject/fcs-simple-client/target/reports/apidocs/type-search-index.js = 1760289136869
